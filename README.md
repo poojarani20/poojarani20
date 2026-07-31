@@ -11,7 +11,7 @@
 
 ---
 
-<h2>About Me</h2>
+<h1>About Me</h1>
 
 <p>Frontend Engineer with 6+ years of experience building scalable, responsive, and high-performance web applications using React.js, Next.js, JavaScript, and TypeScript. Passionate about transforming Figma designs into pixel-perfect, user-centric interfaces, integrating REST APIs, and writing clean, maintainable code. Experienced in optimizing performance, improving accessibility, and leveraging AI tools like Cursor, Claude, and ChatGPT to enhance productivity and accelerate development.</p>
 
@@ -25,7 +25,7 @@ Tech Stack
 
 | Category | Technologies |
 |----------|--------------|
-| Frontend | HTML5, JavaScript, TypeScript, React.js, Next.js, Framer Motion |
+| Frontend | React.js, Next.js, JavaScript, TypeScript, Framer Motion, HTML5 |
 | Backend | Node.js, Express.js, PHP, Laravel (Basic), WordPress, REST APIs|
 | Styling | Tailwind CSS, Bootstrap, Sass / SCSS, |
 | Database | MySQL, MongoDB, React Query |
@@ -35,7 +35,7 @@ Tech Stack
 ---
 
 <h1>Featured Projects</h1>
-<p><b>wiximart E-commerce Website</p></b>
+<p><b>wiximart (E-commerce Website)</p></b>
     
 <p>WixiMart is a multi-category ecommerce marketplace where customers can explore and purchase products across a wide variety of segments, similar to large online retail platforms.</p>
 
@@ -52,24 +52,21 @@ Tech Stack
 
 ---
 
-### 🛒 E-commerce Website
-Responsive online shopping website with API integration.
+<h1>Experience</h1>
+<p><b>Neehal Aviation Pvt Ltd</b>  — Frontend Developer <i>(Apr 2025 – Present)</i> </p>
+<p>React.js, Next.js, JavaScript, TypeScript, Framer Motion, HTML5.</p><br></br>
 
-🔗 Live Demo
-🔗 GitHub
+<p><b>Radical Minds Technologies Pvt Ltd</b>  — Frontend Developer <i>(Aug 2022 – Aug 2023 )</i> </p>
+<p>React.js, Next.js, JavaScript, TypeScript, Framer Motion, HTML5.</p>
 
----
+<p><b>Rs Game Zone Pvt Ltd</b>  — Frontend Developer <i>(Dec 2021 - May 2022)</i> </p>
+<p>React.js, Next.js, JavaScript, TypeScript, Framer Motion, HTML5.</p>
 
-## 💼 Experience
+<p><b>onTime Infotech Pvt Ltd</b>  — Frontend Developer <i>(Apr 2018 – Oct 2021)</i> </p>
+<p>HTML5, CSS3, JavaScript, Jquery, Bootstrap  .</p>
 
-**Frontend Developer**
-**6+ Years Experience**
 
-- React.js
-- Next.js
-- REST APIs
-- Responsive Design
-- Performance Optimization
+</p>
 
 ---
 
@@ -82,14 +79,9 @@ Responsive online shopping website with API integration.
 
 ---
 
-## 📊 GitHub Stats
+ <h1>Connect With Me</h1>
 
-(Stats Images)
-
----
-
-## 🤝 Connect With Me
-
-- LinkedIn
-- Portfolio
-- Email
+<p>Open to collaborations, freelance work, and frontend roles.</p>
+<p> <a href="https://poojaportfolio-33ie.vercel.app/" target="_blank">🌐 Live Portfolio .</a>
+    <a href="https:mailto:20pooja.rani20@gmail.com" target="_blank">📧 20pooja.rani20@gmail.com</a></p>
+ 
