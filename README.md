@@ -3,10 +3,10 @@
 <p align="center"><b>Frontend Engineer:</b> 6+ Years Experience Building Fast, Responsive & Modern Web Experiences</p>
 
 <p align="center">🌐
-    <a href="https://poojaportfolio-33ie.vercel.app/" target="_blank">Portfolio*</a>
-    <a href="https://github.com/poojarani20/" target="_blank">GitHub*</a>
-    <a href="https://www.linkedin.com/in/poojarani20/" target="_blank">LinkedIn*</a>
-    <a href="https:mailto:20pooja.rani20@gmail.com" target="_blank">Email*</a>
+    <a href="https://poojaportfolio-33ie.vercel.app/" target="_blank">Portfolio .</a>
+    <a href="https://github.com/poojarani20/" target="_blank">GitHub .</a>
+    <a href="https://www.linkedin.com/in/poojarani20/" target="_blank">LinkedIn .</a>
+    <a href="https:mailto:20pooja.rani20@gmail.com" target="_blank">Email</a>
 </p>
 
 ---
@@ -17,23 +17,24 @@
 
 - 💼 Currently at Neehal Aviation —  React, TypeScript, WordPress
 - 🚀 End-to-end delivery: design → build → deploy
-- 📫 <a href="https:mailto:20pooja.rani20@gmail.com" target="_blank">Email</a>, +91-9717618096 
+- 📫 <a href="https:mailto:20pooja.rani20@gmail.com" target="_blank">20pooja.rani20@gmail.com</a>, +91-9717618096 
 
 ---
 
-## 🛠️ Tech Stack
+Tech Stack
 
 | Category | Technologies |
 |----------|--------------|
 | Frontend | HTML5, JavaScript, TypeScript, React.js, Next.js, Framer Motion |
-| Backend | Node.js (Basic), REST APIs |
-| Styling | Tailwind CSS, Bootstrap, SCSS |
-| Tools | Git, GitHub, VS Code, Figma, Postman |
-| Others | Responsive Design, SEO, Vercel |
+| Backend | Node.js, Express.js, PHP, Laravel (Basic), WordPress, REST APIs|
+| Styling | Tailwind CSS, Bootstrap, Sass / SCSS, |
+| Database | MySQL, MongoDB, React Query |
+| Tools | Git, GitHub, Figma, Vite, Vercel, Axios |
+| AI | Cursor, Claude, ChatGPT, Copilot, Gemini, v0.dev |
 
 ---
 
-## 🚀 Featured Projects
+Featured Projects
 
 ### 🌐 Personal Portfolio
 Modern responsive portfolio built with React.js.
