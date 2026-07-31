@@ -46,7 +46,7 @@ Tech Stack
 <p>🔗 <a href="https://wiximart.com/" target="_blank">Live Demo</a></p>
 <p>Other projects: <a href="https://www.codingtag.com/" target="_blank">Codingtag .</a>
 <a href="https://www.ticketstoindia.com/" target="_blank">Ticketstoindia</a>
-<a href="https:https://radicalminds.in/" target="_blank">Radicalminds .</a> 
+<a href="https://radicalminds.in/" target="_blank">Radicalminds .</a> 
 <a href="https://wiximart.com/" target="_blank">Biggpocket .</a> </p>
 
 
