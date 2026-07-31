@@ -13,7 +13,7 @@
 
 <h2>About Me</h2>
 
-<p>Frontend Engineer with 6+ years of experience building scalable, responsive, and high-performance web applications using React.js, Next.js, JavaScript, and TypeScript. Passionate about transforming Figma designs into pixel-perfect, user-centric interfaces, integrating REST APIs, and writing clean, maintainable code. Experienced in optimizing performance, improving accessibility, and leveraging AI tools like Cursor, Claude, and ChatGPT to enhance productivity and accelerate development as part of my daily workflow.</p>
+<p>Frontend Engineer with 6+ years of experience building scalable, responsive, and high-performance web applications using React.js, Next.js, JavaScript, and TypeScript. Passionate about transforming Figma designs into pixel-perfect, user-centric interfaces, integrating REST APIs, and writing clean, maintainable code. Experienced in optimizing performance, improving accessibility, and leveraging AI tools like Cursor, Claude, and ChatGPT to enhance productivity and accelerate development.</p>
 
 - 💼 Currently at Neehal Aviation —  React, TypeScript, WordPress
 - 🚀 End-to-end delivery: design → build → deploy
@@ -34,13 +34,20 @@ Tech Stack
 
 ---
 
-Featured Projects
+<h3>Featured Projects</h3>
+<h1>wiximart</h1>
+<p>WixiMart is a multi-category ecommerce marketplace where customers can explore and purchase products across a wide variety of segments, similar to large online retail platforms.</p>
 
-### 🌐 Personal Portfolio
-Modern responsive portfolio built with React.js.
+<p><b>Technologies Used</b></p>
 
-🔗 Live Demo
-🔗 GitHub
+<p>JavaScript | Jquery | HTML5 | CSS3 | Bootstrap | PHP | MySQL | REST API | Git | Material UI</p>
+
+🔗 <p><a href="https://wiximart.com/" target="_blank">Live Demo</a></p>
+<p>Other projects: <a href="https://www.codingtag.com/" target="_blank">Codingtag .</a>
+<a href="https://www.ticketstoindia.com/" target="_blank">Ticketstoindia</a></p>
+<a href="https:https://radicalminds.in/" target="_blank">Radicalminds .</a> 
+<a href="https://wiximart.com/" target="_blank">Biggpocket .</a> 
+
 
 ---
 
