@@ -71,7 +71,7 @@ HTML5, CSS3, JavaScript, Php, Jquery, Bootstrap. </p>
 
 <h1> Certifications</h1>
 
-- kurukshetra university — Linux
+- HCL — Linux
 - onTime Infotech — Best Frontend Developer Warrior Award & Certificate
 
 
