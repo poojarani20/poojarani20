@@ -1,10 +1,10 @@
-# Hi, I'm Pooja Rani 👋
-
-### Frontend Developer | React.js | Next.js | UI/UX Designer
-
-🌐 Portfolio: https://your-portfolio.com
-💼 LinkedIn: https://linkedin.com/in/yourprofile
-📧 Email: your@email.com
+                                                                    # Hi, I'm Pooja Rani 👋
+                                                                    
+                                                                    ### Frontend Developer | React.js | Next.js | UI/UX Designer
+                                                                    
+                                                                    🌐 Portfolio: https://your-portfolio.com
+                                                                    💼 LinkedIn: https://linkedin.com/in/yourprofile
+                                                                    📧 Email: your@email.com
 
 ---
 
