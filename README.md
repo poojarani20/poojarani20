@@ -1,6 +1,6 @@
-<h1 align="center"># Hi, I'm Pooja Rani 👋</h1>
+<h1 align="center"><b>Hi, I'm Pooja Rani</b> 👋</h1>
 
-<p align="center">### Frontend Developer | React.js | Next.js | UI/UX Designer</p>
+<p align="center"><b>Frontend Engineer</b> Building Fast, Responsive & Modern Web Experiences</p>
 
 <p align="center">🌐
     <a href="https://poojaportfolio-33ie.vercel.app/" target="_blank">Portfolio</a>
