@@ -1,7 +1,7 @@
- # Hi, I'm Pooja Rani 👋
+ <p align="center"># Hi, I'm Pooja Rani 👋</p>
  ---
- ### Frontend Developer | React.js | Next.js | UI/UX Designer
- <a href="https://poojaportfolio-33ie.vercel.app/">🌐 Portfolio</a> . LinkedIn: https://linkedin.com/in/yourprofile . Email: your@email.com
+<p align="center"> ### Frontend Developer | React.js | Next.js | UI/UX Designer</p>
+<p align="center"> <a href="https://poojaportfolio-33ie.vercel.app/" target="_blank">🌐 Portfolio</a> . <a href="https://www.linkedin.com/in/poojarani20/" target="_blank"> LinkedIn</a>.  <a href="https://github.com/poojarani20/" target="_blank">GitHub</a> . <a href="mailto:20pooja.rani20@gmail.com" target="_blank">Email</a> </p>
 ---
 
 ## 👩‍💻 About Me
