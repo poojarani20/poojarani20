@@ -34,8 +34,11 @@ Tech Stack
 
 ---
 
-<h3>Featured Projects</h3>
-<h1>wiximart</h1>
+<h1>Featured Projects</h1>
+<p><b<wiximart E-commerce Website</p></b>
+    
+---
+    
 <p>WixiMart is a multi-category ecommerce marketplace where customers can explore and purchase products across a wide variety of segments, similar to large online retail platforms.</p>
 
 <p><b>Technologies Used</b></p>
