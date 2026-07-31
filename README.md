@@ -13,11 +13,11 @@
 
 <h2>About Me</h2>
 
-<p>Frontend Engineer with 6+ years of hands-on experience** developing responsive, scalable, and high-performance web applications. Proficient in React.js, Next.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS, Bootstrap, and REST APIs. Skilled in building reusable components, integrating backend APIs, improving application performance, and delivering exceptional user experiences. Passionate about clean architecture, modern frontend development, and continuous learning.</p>
-
-- 💼 Frontend Developer
-- 🚀 Passionate about UI/UX & Performance
-- 📍 Noida, India
+<p>Frontend Engineer with 6+ years of experience building scalable, responsive, and high-performance web applications using React.js, Next.js, JavaScript, and TypeScript. Passionate about transforming Figma designs into pixel-perfect, user-centric interfaces, integrating REST APIs, and writing clean, maintainable code. Experienced in optimizing performance, improving accessibility, and leveraging AI tools like Cursor, Claude, and ChatGPT to enhance productivity and accelerate development as part of my daily workflow.</p>
+<p>
+- 💼 Currently at Neehal Aviation —  React, TypeScript, WordPress
+- 🚀 End-to-end delivery: design → build → deploy
+- 📫 <a href="https:mailto:20pooja.rani20@gmail.com" target="_blank">Email</a>, +91-9717618096 </p>
 
 ---
 
@@ -25,9 +25,9 @@
 
 | Category | Technologies |
 |----------|--------------|
-| Frontend | HTML5, CSS3, JavaScript, TypeScript, React.js, Next.js |
-| Styling | Tailwind CSS, Bootstrap, SCSS |
+| Frontend | HTML5, JavaScript, TypeScript, React.js, Next.js, Framer Motion |
 | Backend | Node.js (Basic), REST APIs |
+| Styling | Tailwind CSS, Bootstrap, SCSS |
 | Tools | Git, GitHub, VS Code, Figma, Postman |
 | Others | Responsive Design, SEO, Vercel |
 
