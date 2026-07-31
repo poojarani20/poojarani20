@@ -69,16 +69,15 @@ HTML5, CSS3, JavaScript, Php, Jquery, Bootstrap. </p>
 
 ---
 
-## 📜 Certifications
+<h1> Certifications</h1>
 
-- React.js
-- JavaScript ES6+
-- Git & GitHub
-- UI/UX (Figma)
+- kurukshetra university — Linux
+- onTime Infotech — Best Frontend Developer Warrior Award & Certificate
+
 
 ---
 
- <h1>Connect With Me</h1>
+ <h1>Let's Connect</h1>
 
 <p>Open to collaborations, freelance work, and frontend roles.</p>
 <p> <a href="https://poojaportfolio-33ie.vercel.app/" target="_blank">🌐 Live Portfolio .</a>
