@@ -53,16 +53,16 @@ Tech Stack
 ---
 
 <h1>Experience</h1>
-<p><b>Neehal Aviation Pvt Ltd</b>  — Frontend Developer <i>(Apr 2025 – Present)</i>
+<p><b>Neehal Aviation Pvt Ltd</b>  — Frontend Developer <i>(Apr 2025 – Present)</i><br>
 React.js, Next.js, JavaScript, TypeScript, Framer Motion, HTML5. </p>
 
-<p><b>Radical Minds Technologies Pvt Ltd</b>  — Frontend Developer <i>(Aug 2022 – Aug 2023 )</i> 
+<p><b>Radical Minds Technologies Pvt Ltd</b>  — Frontend Developer <i>(Aug 2022 – Aug 2023 )</i> <br>
 React.js, Next.js, JavaScript, TypeScript, Framer Motion, HTML5.</p>
 
-<p><b>Rs Game Zone Pvt Ltd</b>  — Frontend Developer <i>(Dec 2021 - May 2022)</i> 
+<p><b>Rs Game Zone Pvt Ltd</b>  — Frontend Developer <i>(Dec 2021 - May 2022)</i> <br>
 React.js, Next.js, JavaScript, TypeScript, Framer Motion, HTML5.</p>
 
-<p><b>onTime Infotech Pvt Ltd</b>  — Frontend Developer <i>(Apr 2018 – Oct 2021)</i>
+<p><b>onTime Infotech Pvt Ltd</b>  — Frontend Developer <i>(Apr 2018 – Oct 2021)</i><br>
 HTML5, CSS3, JavaScript, Php, Jquery, Bootstrap. </p>
 
 
