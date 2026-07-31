@@ -1,139 +1,86 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub README Style</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
+<h1 align="center"># Hi, I'm Pooja Rani 👋</h1>
 
-<div class="container">
+<p align="center">### Frontend Developer | React.js | Next.js | UI/UX Designer</p>
 
-    <header>
-        <h1>Hi, I'm Kuldeep Tripathi 👋</h1>
-        <p class="subtitle">
-            Frontend Engineer • 4+ years building fast, responsive & modern web experiences
-        </p>
+<p align="center">🌐
+    <a href="https://poojaportfolio-33ie.vercel.app/" target="_blank">Portfolio</a>
+    <a href="https://github.com/poojarani20/" target="_blank">GitHub</a>
+    <a href="https://www.linkedin.com/in/poojarani20/" target="_blank">LinkedIn</a>
+    <a href="https:mailto:20pooja.rani20@gmail.com" target="_blank">Email</a>
+</p>
 
-        <div class="links">
-            <a href="#">Portfolio</a>
-            <a href="#">GitHub</a>
-            <a href="#">LinkedIn</a>
-            <a href="#">Email</a>
-        </div>
-    </header>
+---
 
-    <section>
-        <h2>About Me</h2>
+## 👩‍💻 About Me
 
-        <p>
-            Frontend Engineer shipping polished, performant UIs with React, Next.js and
-            TypeScript. I turn Figma designs into scalable interfaces, integrate APIs,
-            and use AI tools as part of my daily workflow.
-        </p>
+Frontend Developer with 6+ years of experience building responsive, modern web applications using React.js, Next.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS and REST APIs.
 
-        <ul>
-            <li>Currently at IS Global Web</li>
-            <li>React, Next.js, TypeScript, WordPress & Laravel</li>
-            <li>End-to-end delivery: Design → Build → Deploy</li>
-            <li>Email: kuldeep@email.com</li>
-            <li>Phone: +91 8000000000</li>
-        </ul>
-    </section>
+- 💼 Frontend Developer
+- 🚀 Passionate about UI/UX & Performance
+- 📍 Noida, India
 
-    <section>
-        <h2>Tech Stack</h2>
+---
 
-        <table>
-            <tr>
-                <th>Category</th>
-                <th>Technology</th>
-            </tr>
+## 🛠️ Tech Stack
 
-            <tr>
-                <td>Frontend</td>
-                <td>React, Next.js, TypeScript, JavaScript, Framer Motion</td>
-            </tr>
+| Category | Technologies |
+|----------|--------------|
+| Frontend | HTML5, CSS3, JavaScript, TypeScript, React.js, Next.js |
+| Styling | Tailwind CSS, Bootstrap, SCSS |
+| Backend | Node.js (Basic), REST APIs |
+| Tools | Git, GitHub, VS Code, Figma, Postman |
+| Others | Responsive Design, SEO, Vercel |
 
-            <tr>
-                <td>Backend</td>
-                <td>Laravel, WordPress, REST APIs</td>
-            </tr>
+---
 
-            <tr>
-                <td>Styling</td>
-                <td>Tailwind CSS, CSS Modules, Styled Components</td>
-            </tr>
+## 🚀 Featured Projects
 
-            <tr>
-                <td>Database</td>
-                <td>SQL, MongoDB</td>
-            </tr>
+### 🌐 Personal Portfolio
+Modern responsive portfolio built with React.js.
 
-            <tr>
-                <td>Tools</td>
-                <td>Git, GitHub, Vite, Axios</td>
-            </tr>
+🔗 Live Demo
+🔗 GitHub
 
-            <tr>
-                <td>AI</td>
-                <td>ChatGPT, Copilot, Gemini, Cursor</td>
-            </tr>
-        </table>
-    </section>
+---
 
-    <section>
-        <h2>Featured Work</h2>
+### 🛒 E-commerce Website
+Responsive online shopping website with API integration.
 
-        <h3>The Himalayan Travels</h3>
+🔗 Live Demo
+🔗 GitHub
 
-        <p>
-            Responsive travel booking platform with admin dashboard and email
-            notifications built using Next.js, Tailwind CSS and Supabase.
-        </p>
+---
 
-        <div class="project-links">
-            <a href="#">Amazon Clone</a>
-            <a href="#">Dribbble Clone</a>
-            <a href="#">Dog API</a>
-        </div>
-    </section>
+## 💼 Experience
 
-    <section>
-        <h2>Experience</h2>
+**Frontend Developer**
+**6+ Years Experience**
 
-        <div class="job">
-            <h4>IS Global Web</h4>
-            <span>Frontend Developer (Nov 2025 - Present)</span>
+- React.js
+- Next.js
+- REST APIs
+- Responsive Design
+- Performance Optimization
 
-            <p>
-                Built reusable React components and performance-focused interfaces.
-            </p>
-        </div>
+---
 
-        <div class="job">
-            <h4>LiangTuang Technologies</h4>
-            <span>Frontend Developer</span>
+## 📜 Certifications
 
-            <p>
-                Developed responsive web applications using Next.js.
-            </p>
-        </div>
-    </section>
+- React.js
+- JavaScript ES6+
+- Git & GitHub
+- UI/UX (Figma)
 
-    <section>
-        <h2>Certifications</h2>
+---
 
-        <ul>
-            <li>Frontend Development</li>
-            <li>React.js</li>
-            <li>Python Basics</li>
-            <li>SQL Basics</li>
-        </ul>
-    </section>
+## 📊 GitHub Stats
 
-</div>
+(Stats Images)
 
-</body>
-</html>
+---
+
+## 🤝 Connect With Me
+
+- LinkedIn
+- Portfolio
+- Email
