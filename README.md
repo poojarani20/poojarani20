@@ -27,7 +27,7 @@ Tech Stack
 |----------|--------------|
 | Frontend | React.js, Next.js, JavaScript, TypeScript, Framer Motion, HTML5 |
 | Backend | Node.js, Express.js, PHP, Laravel (Basic), WordPress, REST APIs|
-| Styling | Tailwind CSS, Bootstrap, Sass / SCSS, |
+| Styling | Tailwind CSS, Bootstrap, Sass / SCSS |
 | Database | MySQL, MongoDB, React Query |
 | Tools | Git, GitHub, Figma, Vite, Vercel, Axios |
 | AI | Cursor, Claude, ChatGPT, Copilot, Gemini, v0.dev |
