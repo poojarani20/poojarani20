@@ -71,8 +71,8 @@ HTML5, CSS3, JavaScript, Php, Jquery, Bootstrap. </p>
 
 <h1> Certifications</h1>
 
-- HCL — Linux
-- onTime Infotech — Best Frontend Developer Warrior Award & Certificate
+- <b>HCL</b> — Linux
+- <b>onTime Infotech</b> — Best Frontend Developer Warrior Award & Certificate
 
 
 ---
